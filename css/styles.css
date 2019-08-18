@@ -16,4 +16,11 @@ input {
   border: none;
   width: 40%;
   margin-left: 28%;
+  background-image: url("../images/searchButton.jpg");
+  background-size: 40px 100%;
+  background-repeat: no-repeat;
+}
+
+:enabled {
+  color: rgb(0, 0, 0);
 }
